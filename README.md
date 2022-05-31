@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+🐍 A Snake Eating my Contributions Graph
 ![snake gif](https://github.com/rawaldeepSingh/rawaldeepSingh/blob/output/github-contribution-grid-snake.gif)
 
 <!--
